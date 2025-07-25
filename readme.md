@@ -28,7 +28,8 @@
 - React Simple Code Editor
 
 ---
-
+##screenshot
+![screenshot](img/Screenshot%202025-07-16%20161545.png)
 ## 📦 Installation
 
 ### 1. Clone the Repository
